@@ -9,6 +9,12 @@
 
  const myWatchedSeries = ["black mirror", "money heist", "the big bang theory"];
  var myWatchedSeriesLength = myWatchedSeries.length;
+/******************************************************
+Correcteur: Yannick GOUGUIA
+
+Revoir cet exercice, reponse juste mais peut mieux faire. Imagines que tu avais un tableau de 100 éléments??????????
+
+*****************************************************/
  var myWatchedSeriesSentence = myWatchedSeries[0] + "," + myWatchedSeries[1] + "," + myWatchedSeries[2];
 
  console.log("i looked" + " " + myWatchedSeriesLength + " " + "and I remembered the following sentence" + " " +
